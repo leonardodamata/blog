@@ -1,2 +1,2 @@
 # blog
-Criando um blog com Python e Django
+Criando um blog com Python e Django com SQLite
